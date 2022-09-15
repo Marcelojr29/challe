@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CHALÉ ENCANTATO</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
       <!-- homer --> 
@@ -216,6 +216,6 @@
          </div> 
          <h2>OBRIGADA E VOLTE SEMPRE</h2> 
        </section> 
-       <script src="java.js"></script>  
+       <script src="js/java.js"></script>  
 </body>
 </html>
