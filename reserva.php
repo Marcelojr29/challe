@@ -55,7 +55,7 @@
 				</div><!--/fechamento input-group-->				
 
 				<div class="continue-button"><!--abertura continue-submit-->
-					<button><a href="login.php">Reservar</a></button>
+					<submit><a href="login.php">Reservar</a></submit>
 				</div><!--/fechamento continue-submit-->
 			</form><!--/fechamento form action-->
 		</div><!--/fechamento form-->
