@@ -97,7 +97,7 @@
    <p>Acesso ao Wi-Fi, Suíte, Quarto de solteiro, Recepção 24hrs, Open Bar até às 20hrs, Tour pela floresta e pelo Chalé</p>
    <h2 > 
     <img src="imagens/c-grif.jpg"><br>
-    <a href="login/reserva.php" class="link" target="_blank">RESERVAR</a> 
+    <a href="reserva.php" class="link" target="_blank">RESERVAR</a> 
   </h2>
 </div><!--/ fechamento service-item-->
 
@@ -110,7 +110,7 @@
 <p>Acesso ao Wi-Fi, 2 Quartos de solteiro, Suíte, Piscina livre, Recepção 24hrs, Open Bar até às 21hrs, Segurança 24hrs, Tour pelo Chalé</p>
 <img src="imagens/s-sons.jpg"><br>
 <h2> 
-  <a href="login/reserva.php" class="link" target="_blank">RESERVAR</a> 
+  <a href="reserva.php" class="link" target="_blank">RESERVAR</a> 
 </h2>
 </div><!--/ fechamento service-item-->
 
@@ -123,7 +123,7 @@
 <p>Acesso ao Wi-Fi, 2 Suítes, Piscina c/ Hidro livre, Recepção 24hrs, Open Bar, Tour pelo Chalé e pelas redondezas</p>
 <img src="imagens/c-corv.jpg"><br>
 <h2> 
-  <a href="login/reserva.php" class="link" target="_blank">RESERVAR</a> 
+  <a href="reserva.php" class="link" target="_blank">RESERVAR</a> 
 </h2>
 </div><!--/ fechamento service-item-->
 
@@ -136,7 +136,7 @@
 <p>Acesso Wi-F, 1 Quarto de solteiro, 2 Suítes, Piscina com Hidromassagem livre, Recepção 24hrs, Open Bar</p>
 <img src="imagens/c-luf.jpg"><br>
 <h2> 
-  <a href="login/reserva.php" class="link" target="_blank">RESERVAR</a> 
+  <a href="reserva.php" class="link" target="_blank">RESERVAR</a> 
 </h2>
 </div><!--/ fechamento service-item--> 
 </div><!--/ fechamento service-bottom--> 
@@ -161,7 +161,7 @@
         Coragem, Lealdade e Companheirismo
       </h2><br> 
       <p>Aqui na Casa de Grifinória presamos pela <b>Coragem</b>, <b>Companheirismo</b> e principalmente <b>Lealdade</b>. O Chalé Grifinória é repleta de magia e fantasia com todos os cômodos decorados no tema da casa de <b>Harry Potter</b>. Com um quarto de solteiro composto de 3 camas decoradas dos <b>grifinórios</b>, um quarto suíte para o casal que quiser ter uma experiência única dentro de nossa maior decoração composto com uma cama tamanho King size e um banheiro no estilo da plataforma 9¾</p> 
-      <h2> <a href="login/login.php" class="link">RESERVAR</a> </h2>
+      <h2> <a href="login.php" class="link">RESERVAR</a> </h2>
     </div><!--/ fechamento project-info-->
   </div><!--/ fechamento project-item-->
 
@@ -175,7 +175,7 @@
    </h2><br> 
    <p>Aqui na Casa de Sonserina presamos pela <b>Determinação</b> de nossos clientes e pela <b>Ambição</b> daqueles que querem um pouco de tudo, com uma casa repleta decoração de nossa adorada casa de Sonserina você irá se sentir o próprio Snape ou nosso queridissimo Malfoy, com dois quartos de solteiros composto de 3 camadas cada e totalmente decoradas pelo sua casa preferida e para aqueles que gostam de ambição, nosso quarto suíte com 2 camas King Size e uma decoração pra lá de maravilhosa, você irá se apaixonar por tudo a que temos a oferecer</p> 
    <h2> 
-    <a href="login/login.php" class="link" target="_blank">RESERVAR</a> 
+    <a href="reserva.php" class="link" target="_blank">RESERVAR</a> 
   </h2>
 </div><!--/fechamento project-info--> 
 </div><!--/ fechamento project-item-->
@@ -190,7 +190,7 @@
   </h2><br> 
   <p>Aqui na Casa de Corvinal presamos pela <b>Inteligência</b> e <b>Criatividade</b> na hora de desvender os mistérios do Chalé Corvinal, venha se tornar extravagante em nossa casa, com 2 suítes composto de uma King Size em cada, você pode usar a magia da sua sabedoria para descobrir os inumeros mistérios que rodeiam nosso chalé e tirar um tempo para se molhar em nossa piscina com hidromassagem</p> 
   <h2> 
-    <a href="login/reserva.php" class="link" target="_blank">RESERVAR</a>
+    <a href="reserva.php" class="link" target="_blank">RESERVAR</a>
   </h2>
 </div><!--/fechamento project-info--> 
 </div><!--/ fechamento project-item--> 
@@ -205,7 +205,7 @@
   </h2> 
   <p>Aqui na Casa de Lufa-Lufa presamos pela <b>Dedicação</b>, <b>Lealdade</b> e principalmente <b>Honestidade</b>, sem competições e sem rivalidade, você irá adorar passar um tempo de paz se massageando em nossa piscina com hidromassagem, com um quarto de solteiro composto de 3 camas e todas decoradas com os nossos melhores lufanos e duas suítes para você casal que adora uma diversão</p> 
   <h2> 
-    <a href="login/reserva.php" class="link" target="_blank">RESERVAR</a> 
+    <a href="reserva.php" class="link" target="_blank">RESERVAR</a> 
   </h2>
 </div><!--/fechamento project-info--> 
 </div><!--/ fechamento project-item-->
@@ -220,7 +220,7 @@
   </h2> 
   <p>Aqui na Casa dos Trouxas presamos pela sua <b>Honestidade</b>, <b>Determinação</b> e <b>Companheirismo</b>, não há problema em não ter magias pois aqui você irá ter as mesmas experiências que nossos queridos Bruxos, com 2 quartos de solteiros compostos de 3 camas cada e duas suítes, você e seus amigos poderão se divertir da melhor forma que quiserem, sem vizinhos reclamando com a música ou com o cheiro das comidas, você é mais que bem vindo.</p> 
   <h2> 
-    <a href="login/reserva.php" class="link" target="_blank">RESERVAR</a> 
+    <a href="reserva.php" class="link" target="_blank">RESERVAR</a> 
   </h2>
 </div><!--/fechamento project-info--> 
 </div><!--/ fechamento project-item--> 

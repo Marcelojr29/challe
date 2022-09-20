@@ -194,15 +194,4 @@
 			padding-right: 5rem;
 		}
 
-		.gender-inputs{
-			margin-top: 2rem;
-		}
-
-		.gender-group{
-			flex-direction: column;
-		}
-
-		.gender-input{
-			margin-top: 0.5rem;
-		}
 	}
