@@ -16,7 +16,7 @@
 			<img src="imagens/logo.png" width="350px" alt="Hogwarts">
 		</div><!--/fechamento form image-->
 		<div class="form"><!--abertura form-->
-			<form action="index.php"><!--abertura form action-->
+			<form action="cadastrar.php" method="post"><!--abertura form action-->
 				<div class="form-header"><!--abertura form header-->
 					<div class="title"><!--abertura title-->
 						<h1>Torne-se um bruxo</h1>
@@ -28,13 +28,13 @@
 
 				<div class="input-group"><!--abertura input-group-->
 					<div class="input-box"><!--abertura input-box-->
-						<label for="firstname">Nome</label>
-						<input id="firstname" type="text" name="firstname" placeholder="Digite o seu Nome" autofocus required>
+						<label for="nome">Nome</label>
+						<input id="nome" type="text" name="nome" placeholder="Digite o seu Nome" autofocus required>
 					</div><!--/fechamento input-box-->
 
 					<div class="input-box"><!--abertura input-box-->
-						<label for="lastname">Sobrenome</label>
-						<input id="lastname" type="text" name="lastname" placeholder="Digite o seu Sobrenome" autofocus required>
+						<label for="sobrenome">Sobrenome</label>
+						<input id="sobrenome" type="text" name="sobrenome" placeholder="Digite o seu Sobrenome" autofocus required>
 					</div><!--/fechamento input-box-->
 
 					<div class="input-box"><!--abertura input-box-->
@@ -44,18 +44,18 @@
 
 					<div class="input-box"><!--abertura input-box-->
 						<label for="email">Confirme o seu email</label>
-						<input id="email" type="email" name="confemail" placeholder="Digite o seu email" autofocus required>
+						<input id="confemail" type="email" name="conf" placeholder="Digite o seu email" autofocus required>
 					</div><!--/fechamento input-box-->
 
 					<div class="input-box"><!--abertura input-box-->
-						<label for="number">Celular</label>
-						<input id="number" type="tel" name="number" placeholder="(92) 91234-5678" autofocus required>
+						<label for="celular">Celular</label>
+						<input id="celular" type="tel" name="celular" placeholder="(92) 90000-0000" autofocus required>
 					</div><!--/fechamento input-box-->
 
 				</div><!--/fechamento input-group-->				
 
 				<div class="continue-button"><!--abertura continue-submit-->
-					<submit><a href="login.php">Reservar</a></submit>
+					<submit><a href="index.php">Reservar</a></submit>
 				</div><!--/fechamento continue-submit-->
 			</form><!--/fechamento form action-->
 		</div><!--/fechamento form-->

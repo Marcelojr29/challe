@@ -1,27 +1,33 @@
 <?php  
+	include_once "conexao.php";
 
-	incluce_once "conexao.php";
+	try {
 
-	try{
 		$nome = filter_var($_POST['nome']);
 		$sobrenome = filter_var($_POST['sobrenome']);
 		$email = filter_var($_POST['email']);
 		$confemail = filter_var($_POST['conf']);
-		$numero = filter_var($_POST['numero']);
+		$celular = filter_var($_POST['celular']);
 
-		$insert = $conectar->prepare("insert into usuarios (nome, sobrenome, email, conf, numero) values (:nome, :sobrenome, :email, :conf, :numero)");
+		$insert = $conexao->prepare("insert into usuario(nome, sobrenome, email, conf, celular) values (:nome, :sobrenome, :email, :conf, :celular)");
+
 		$insert->bindParam(':nome', $nome);
 		$insert->bindParam(':sobrenome', $sobrenome);
 		$insert->bindParam(':email', $email);
 		$insert->bindParam(':conf', $confemail);
-		$insert->bindParam(':numero', $numero);
+		$insert->bindParam(':celular', $celular);
 
-		$insert->execute();
+		$insert -> execute();
 		header("location: index.php");
+		
 	} catch (PDOException $e) {
-
-		echo 'Error:' . $e->getMessage();
+		
+		echo "Error: " . $e->getMessage();
 
 	}
+
+
+
+
 
 ?>
