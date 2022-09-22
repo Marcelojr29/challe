@@ -15,8 +15,8 @@
 				<img src="imagens/logo.png">
 			</div>	
 		<form action="login.php" method="POST">
-			<input type="text" name="nome" placeholder="nome de usuario" autofocus required>
-			<input type="email" name="email" placeholder="seu email" required>
+			<input type="email" name="email" placeholder="Informe seu email" autofocus required>
+			<input type="password" name="senha" placeholder="Informe sua senha" autofocus required>
 			<input type="submit" value="entrar">
 		</form>
 			<p>Ainda não é um bruxo?<a href="reserva.php" target="_blank">Torne-se um</a></p>

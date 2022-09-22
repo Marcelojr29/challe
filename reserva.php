@@ -16,13 +16,13 @@
 			<img src="imagens/logo.png" width="350px" alt="Hogwarts">
 		</div><!--/fechamento form image-->
 		<div class="form"><!--abertura form-->
-			<form action="cadastrar.php" method="post"><!--abertura form action-->
+			<form action="login/cadastrar.php" method="post"><!--abertura form action-->
 				<div class="form-header"><!--abertura form header-->
 					<div class="title"><!--abertura title-->
 						<h1>Torne-se um bruxo</h1>
 					</div><!--/fechamento title-->
 					<div class="login-button"><!--abertura login-button-->
-						<button><a href="login.html" target="_blank">Entrar</a></button>
+						<button><a href="login.php" target="_blank">Entrar</a></button>
 					</div><!--/fechamento login-button-->
 				</div><!--/fechamento form header-->
 

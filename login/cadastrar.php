@@ -18,11 +18,11 @@
 		$insert->bindParam(':celular', $celular);
 
 		$insert -> execute();
-		header("location: index.php");
+		header("location: ../index.php");
 		
 	} catch (PDOException $e) {
 		
-		echo "Error: " . $e->getMessage();
+		echo 'Error:' . $e->getMessage();
 
 	}
 
